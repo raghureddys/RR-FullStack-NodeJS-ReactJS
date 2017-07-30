@@ -1,0 +1,41 @@
+{
+  "name": "rr-fullstack-nodejs-reactjs",
+  "version": "1.0.0",
+  "description": "RR-FullStack-NodeJS-ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghureddys/RR-FullStack-NodeJS-ReactJS.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "NodeJS"
+  ],
+  "author": "Raghu Reddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghureddys/RR-FullStack-NodeJS-ReactJS/issues"
+  },
+  "homepage": "https://github.com/raghureddys/RR-FullStack-NodeJS-ReactJS#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mangodb": "^1.0.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "eslint": "^4.3.0",
+    "eslint-plugin-react": "^7.1.0",
+    "nodemon": "^1.11.0",
+    "webpack": "^3.4.1"
+  }
+}
